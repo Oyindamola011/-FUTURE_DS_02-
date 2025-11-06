@@ -1,4 +1,4 @@
-# -FUTURE_DS_02- Socail media trend analysis 
+# -FUTURE_DS_02- Social media trend analysis 
 
 ## Oyindamola's Portfolio
 
